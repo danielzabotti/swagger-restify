@@ -16,7 +16,7 @@
     "url": "https://github.com/apigee-127/swagger-restify.git"
   },
   "dependencies": {
-    "swagger-node-runner": "^0.7.1"
+    "swagger-node-runner": "^0.7.2"
   },
   "devDependencies": {
     "lodash": "^3.9.3",
